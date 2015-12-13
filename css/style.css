@@ -1,28 +1,45 @@
-body{
-    
-    font-family: 'Lato', sans-serif;
+body {
+
+    font-family: "Lato", sans-serif;
     color: #747704;
     font-weight: 300;
 }
-h3{
+
+h3	{
+
 	text-transform: uppercase;
 }
-.header-logo{
-	margin:20px;
+
+.big-img {
+
+	width: 100%;
+}
+
+.header-logo {
+
+	margin: 20px;
 	border-radius: 50%;
 	border-color: #F8981C;
 }
-.title-super{
+
+.title-super {
+
 	font-size: 40px;
 }
-.text-muted{
-	color:#BCBBBB;
+
+.text-muted {
+
+	color: #BCBBBB;
 }
-.thin-font{
+
+.thin-font {
+
 	font-weight: 100;
 }
-hr{
+
+hr {
+	
 	background-color: #BCBBBB;
-	width:97%;
-	height:3px;
+	width: 97%;
+	height: 3px;
 }
